@@ -14,7 +14,7 @@
 
   <tr>
     <td>
-      <a href='https://six-cities-9.vercel.app'>
+      <a href='https://six-cities-sandy.vercel.app'>
         <img src='assets/six-cities.jpg' width='300px'>
       </a>
     </td>
@@ -27,7 +27,7 @@
 
   <tr>
     <td>
-      <a href='https://cinemaddict-eta.vercel.app/'>
+      <a href='https://cinemaddict-eta.vercel.app'>
         <img src='assets/cinemaddict.jpg' width='300px'>
       </a> 
     </td>
