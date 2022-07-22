@@ -13,7 +13,7 @@
 <table>
 
   <tr>
-    <td>
+    <td width='320px'>
       <a href='https://six-cities-sandy.vercel.app' title='Посмотреть демо проекта'>
         <img src='assets/six-cities.jpg' width='300px'>
       </a>
